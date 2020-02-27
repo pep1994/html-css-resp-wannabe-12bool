@@ -19,7 +19,11 @@ p {
 }
 
 section {
-  border: solid 1px #000;
+  margin-top: 80px;
+}
+
+[class*="col-"] {
+  padding: 5px 12px;
 }
 
 /****** sezione lezioni *******/
@@ -54,6 +58,7 @@ section {
 #why {
   background-color: #f9f9f9;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 #why img {

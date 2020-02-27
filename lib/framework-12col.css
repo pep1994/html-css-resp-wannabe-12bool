@@ -1,7 +1,8 @@
 /******* container *******/
 .container {
   max-width: 1100px;
-  margin: 20px auto;
+  margin: 0 auto;
+  padding: 0 8px;
 }
 
 .row::after {
@@ -14,8 +15,6 @@
 /****************** regole colonne **********************/
 [class*="col-"] {
   float: left;
-  border: solid 1px #000;
-  height: 200px;
 }
 
 

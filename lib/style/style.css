@@ -5,14 +5,36 @@
   box-sizing: border-box;
 }
 
+h1 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 15px 0;
+}
+
+p {
+  font-size: 18px;
+}
+
 section {
   border: solid 1px #000;
 }
 
 /****** sezione lezioni *******/
 
+.title {
+  text-align: center;
+}
 
+#lezioni {
+  text-align: center;
+}
 
+#lezioni img {
+  height: 200px;
+}
 
 
 

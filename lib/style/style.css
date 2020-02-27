@@ -41,9 +41,6 @@ section {
 
 #functions {
   text-align: center;
-}
-
-#functions {
   background-color: #f9f9f9;
 }
 
@@ -52,5 +49,16 @@ section {
 }
 
 
-
 /********* sezione why **********/
+
+#why {
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+#why img {
+  height: 200px;
+  background-color: #428bca;
+  border-radius: 100%;
+  padding: 30px;
+}

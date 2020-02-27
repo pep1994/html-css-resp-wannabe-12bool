@@ -37,12 +37,19 @@ section {
 }
 
 
-
-
 /******** sezione functions ********/
 
+#functions {
+  text-align: center;
+}
 
+#functions {
+  background-color: #f9f9f9;
+}
 
+#functions img {
+  height: 200px;
+}
 
 
 
